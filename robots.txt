@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Reference to sitemap
+Sitemap: https://kalinouski.github.io/sitemap.xml
